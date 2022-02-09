@@ -1,7 +1,22 @@
+body {
+    background-color: rgb(185, 162, 117);
+}
+
+#indexHeader {
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+}
+
 .container {
     margin-top: 100px;
 }
 
+.recipePart > h3 {
+    color: darkcyan;
+}
 .indexRecipe {
     display: inline-block;
     padding: 0px 20px;
