@@ -1,0 +1,18 @@
+.container {
+    margin-top: 100px;
+}
+
+.indexRecipe {
+    display: inline-block;
+    padding: 0px 20px;
+}
+ul, ol {
+    list-style-position: inside;
+}
+ul li, ol li {
+    margin-top: 4px;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
